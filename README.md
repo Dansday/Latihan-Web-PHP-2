@@ -1,4 +1,4 @@
-# Latihan Web PHP (2)
+# Latihan Web Register Login
 
 This repository contains the source code and documentation for a university project developed using PHP. The project is aimed at implementing a all basic function in PHP. The implementation is based on from lecturer. The project source code is organized into some folder and file.
 
